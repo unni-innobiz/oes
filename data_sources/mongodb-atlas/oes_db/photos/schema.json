@@ -1,0 +1,14 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "photo": {
+            "bsonType": "string"
+        },
+        "photo_id": {
+            "bsonType": "string"
+        }
+    },
+    "title": "photo"
+}

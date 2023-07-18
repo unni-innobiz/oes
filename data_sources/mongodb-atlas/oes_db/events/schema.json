@@ -1,0 +1,29 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "content": {
+            "bsonType": "string"
+        },
+        "event_id": {
+            "bsonType": "string"
+        },
+        "event_time": {
+            "bsonType": "string"
+        },
+        "photos": {
+            "bsonType": "array",
+            "items": {
+                "bsonType": "string"
+            }
+        },
+        "topic": {
+            "bsonType": "string"
+        },
+        "venue": {
+            "bsonType": "string"
+        }
+    },
+    "title": "event"
+}

@@ -1,0 +1,8 @@
+{
+    "photos": {
+        "ref": "#/relationship/mongodb-atlas/oes_db/photos",
+        "source_key": "photos",
+        "foreign_key": "photo_id",
+        "is_list": true
+    }
+}
