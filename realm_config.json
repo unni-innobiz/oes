@@ -1,0 +1,8 @@
+{
+    "app_id": "oes-server-shzen",
+    "config_version": 20210101,
+    "name": "oes-server",
+    "location": "IN-MB",
+    "provider_region": "aws-ap-south-1",
+    "deployment_model": "LOCAL"
+}
